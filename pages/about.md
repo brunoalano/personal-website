@@ -1,32 +1,23 @@
 ---
-title: About us
-date: 2017-01-01T00:00:00.000Z
+title: About Me
+date: 2019-09-27T01:00:00.000Z
 permalink: /about/index.html
 navtitle: About
 tags:
   - nav
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Researcher in Artificial Intelligence, focusing on Natural Language Processing, Behavioral Psychology, and Temporal Networks. CTO at Neurologic, managing technical staff and creating an online behavior analysis platform with real-time, highly predictive responses.
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+I am interested in democratizing access to mental health through artificial intelligence, not as a substitute for the therapist, but as an added dimension to the traditional process.
 
-## Our services
+### Research
+In the research area, mainly in recurrent neural networks applied to language or human behavior, has an emphasis on:
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+* \- Zero-shot Learning
+* \- Transfer Learning
+* \- Recurrent Reinforcement Agents
+* \- Structured Prediction (Recursive Networks)
+* \- Improve NLP corpora in Brazilian Portuguese
 
-### Blue-sky thinking
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-#### Management frameworks
-
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### Regulatory convergence
-
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+### Past
+I've been studying artificial intelligence since my 14 years old, and software development since 08 years old (with Visual Basic 6). At the age of 12, I wrote a Ragnarok Online server emulator, which at the time was closed source, and involved a reverse engineering process based on incoming client TCP packages. At 14, I received an invitation from the Finnish government to attend an event in Helsinki. From the age of 18, I was the only Brazilian invited to participate in the annual OpenAI meetings.
